@@ -22,7 +22,7 @@ This Python script uses the IPQualityScore API to check if a given email address
 1. Run the script:
 
     ```sh
-    python email_lookup.py
+    python databreachscanner.py
     ```
 
 2. Enter the email address you want to look up when prompted.
