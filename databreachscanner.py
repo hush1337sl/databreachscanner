@@ -15,7 +15,7 @@ clear_screen()
 init()
 
 email = input("Enter an email to look up: ")
-api_key = "FW8d9f8eEUJnFRnsKynI48PXHBBjPFQT"
+api_key = "YOUR API KEY HERE"
 api_type = "email"
 url = f"https://www.ipqualityscore.com/api/json/leaked/{api_type}/{api_key}/{email}"
 
